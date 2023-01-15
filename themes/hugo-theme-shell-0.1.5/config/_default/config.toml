@@ -26,10 +26,10 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "billy"
-  pcName = "laptop"
-  workDir = "mydir"
-  profile = "profile.txt"
+  userName = "wyatt"
+  pcName = "kickblip"
+  workDir = "2022-23"
+  profile = "bio.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -53,8 +53,8 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Jane Doe!
-  Nice to meet you!
+  Hi I am Wyatt Hansen!
+  I'm super duper flippin awesome!
   
   """
 
@@ -64,14 +64,13 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "my_portfolio"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["multiplayer browser based game", "https://www.example.com/"],
+    ["spotify seamless transition companion app", "https://www.example.com/"],
+    ["self driving food delivery bot", "https://golang.org/"],
+    ["this site", "/post/some-activity.md"]
   ]
 
 [module]
