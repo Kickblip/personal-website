@@ -68,7 +68,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["multiplayer browser based game", "https://www.example.com/"],
-    ["spotify seamless transition companion app", "https://www.example.com/"],
+    ["spotify seamless transition companion app", "https://github.com/Kickblip/knit-list/"],
     ["self driving food delivery bot", "https://golang.org/"],
     ["this site", "/post/some-activity.md"]
   ]
@@ -77,9 +77,9 @@ ignoreErrors = ["error-remote-getjson"]
   use = true
   folderName = "my_links"
   files = [ 
-    ["github", "https://www.example.com/"],
-    ["youtube", "https://www.example.com/"],
-    ["twitter", "https://www.example.com/"]
+    ["github", "https://github.com/Kickblip/"],
+    ["youtube", "https://www.youtube.com/@kickball42/"],
+    ["twitter", "https://twitter.com/kickball42/"]
   ]
 
 [module]
