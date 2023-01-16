@@ -73,6 +73,15 @@ ignoreErrors = ["error-remote-getjson"]
     ["this site", "/post/some-activity.md"]
   ]
 
+  [Params.Tree2]
+  use = true
+  folderName = "my_links"
+  files = [ 
+    ["github", "https://www.example.com/"],
+    ["youtube", "https://www.example.com/"],
+    ["twitter", "https://www.example.com/"]
+  ]
+
 [module]
   [module.hugoVersion]
     extended = true
