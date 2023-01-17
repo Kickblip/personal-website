@@ -80,7 +80,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["multiplayer browser based game", "https://www.example.com/"],
     ["spotify seamless transitions companion app", "https://github.com/Kickblip/knit-list/"],
     ["self driving food delivery rover", "https://www.example.com/"],
-    ["this website", "content/this-website.md"]
+    ["this website", "/posts/this-website.md"]
   ]
 
   [Params.Tree2]

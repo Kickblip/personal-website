@@ -19,6 +19,14 @@ body {
   justify-content: center;
   align-items: center; }
 
+code {
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  font-size: 12px;
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  border-radius: 6px; }
+
 #content {
   min-width: 82vmin;
   min-height: 82vmin; }
