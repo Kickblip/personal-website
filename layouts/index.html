@@ -43,6 +43,9 @@
     {{ end }}
 
 
+    {{ $cat2 := printf "<span id=terminal>cat %s</span>" .Site.Params.Terminal.profile2 | safeHTML }}
+    {{ $description2 := printf "<span id='terminal'>%s</span>" .Site.Params.Terminal.description2 | safeHTML}}
+
 
     {{ $tree2 := "" }}
     {{ $leaf2 := "" }}
@@ -68,8 +71,6 @@
     {{ end }}
 
 
-
-
     {{ $end := $env }}
 
     {{ $payload := delimit (slice $cd $cat $description $tree $leaf $tree2 $leaf2 $end) "" }}
@@ -78,6 +79,8 @@
     {{ $stdoutDelay :=  $.Site.Params.Terminal.stdoutDelay }}
     {{ $commandDelay := $.Site.Params.Terminal.commandDelay }}
 
-    {{ partial "partials/typeIndex.html" (dict "context" . "env" $env "cd" $cd "envWithDir" $envWithDir "cat" $cat "description" $description "tree" $tree "leaf" $leaf "ps1delay" $ps1Delay "stdoutdelay" $stdoutDelay "commanddelay" $commandDelay "tree2" $tree2 "leaf2" $leaf2 ) }}
+    {{ $cat2 := printf "<span id=terminal>cat %s</span>" .Site.Params.Terminal.profile2 | safeHTML }}
+    {{ $description2 := printf "<span id='terminal'>%s</span>" .Site.Params.Terminal.description2 | safeHTML}}
+    {{ partial "partials/typeIndex.html" (dict "context" . "env" $env "cd" $cd "envWithDir" $envWithDir "cat" $cat "description" $description "tree" $tree "leaf" $leaf "ps1delay" $ps1Delay "stdoutdelay" $stdoutDelay "commanddelay" $commandDelay "tree2" $tree2 "leaf2" $leaf2 "cat2" $cat2 "description2" $description2 ) }}
 
 {{ end }}

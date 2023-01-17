@@ -30,6 +30,7 @@ ignoreErrors = ["error-remote-getjson"]
   pcName = "kickblip"
   workDir = "2022-23"
   profile = "bio.txt"
+  profile2 = "links.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -53,9 +54,18 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Wyatt Hansen!
-  I'm super duper flippin awesome!
+  Hi, I'm Wyatt Hansen
+  I like machine learning and algorithms
+  I'm currently a senior in high school
+  Here's some of the projects I've worked on...
   
+  """
+
+  description2 = """
+  And here's some more of my links
+  if you want to learn more about me
+  or get in touch
+
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -68,9 +78,9 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["multiplayer browser based game", "https://www.example.com/"],
-    ["spotify seamless transition companion app", "https://github.com/Kickblip/knit-list/"],
-    ["self driving food delivery bot", "https://golang.org/"],
-    ["this site", "/post/some-activity.md"]
+    ["spotify seamless transitions companion app", "https://github.com/Kickblip/knit-list/"],
+    ["self driving food delivery rover", "https://golang.org/"],
+    ["this website", "/post/some-activity.md"]
   ]
 
   [Params.Tree2]
