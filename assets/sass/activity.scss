@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+
+// body {
+//     width: 100%;
+//     height: 100%;
+//     overflow: auto;
+
+//     font-family: "Inconsolata", monospace;
+
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: center;
+//     align-items: center;
+// }
+body {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+// color is being overriden by the terminal theme colorscheme
+
+#activity-title {
+    font-size: 20px;
+    color: #23e298;
+    font-family: "Inconsolata", monospace;
+    // font-weight: bold;
+}
+
+#activity-content {
+    font-size: 10px;
+}
