@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://spontaneous-basbousa-cabb4e.netlify.app/'
 languageCode = 'en-us'
 title = 'Wyatt Portfolio'
 theme = 'hugo-theme-shell-0.1.5'
