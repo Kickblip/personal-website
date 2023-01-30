@@ -57,6 +57,8 @@ ignoreErrors = ["error-remote-getjson"]
   Hi, I'm Wyatt Hansen
   I like machine learning and algorithms
   I'm currently a senior in high school
+  I started coding in October 2022
+  I'm entirely self taught
   Here's some of the projects I've worked on...
   
   """
@@ -77,10 +79,11 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_portfolio"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["multiplayer browser based game", "https://www.example.com/"],
+    ["multiplayer browser based game", "https://github.com/Kickblip/launch.io"],
     ["spotify seamless transitions companion app", "https://github.com/Kickblip/knit-list/"],
+    ["automated tiktok video generator", "https://github.com/IP-2023"],
     ["self driving food delivery rover", "https://www.example.com/"],
-    ["this website", "/posts/this-website.md"]
+    ["this website", "https://github.com/Kickblip/personal-website"]
   ]
 
   [Params.Tree2]
@@ -88,8 +91,7 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_links"
   files = [ 
     ["github", "https://github.com/Kickblip/"],
-    ["youtube", "https://www.youtube.com/@kickball42/"],
-    ["twitter", "https://twitter.com/kickball42/"]
+    ["youtube", "https://www.youtube.com/@kickball42/"]
   ]
 
 [module]
