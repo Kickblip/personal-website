@@ -7,5 +7,7 @@ draft: false
 ### https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 ### https://coursera.org/share/15a6027f8a9d5b2014b977e555a1788a
 
+![recognition](https://media.discordapp.net/attachments/1023710494416195686/1073083676637798440/IMG_3759.jpg?width=698&height=931)
+
 (I'll update this page soon with more info about my image recognition model)
 
