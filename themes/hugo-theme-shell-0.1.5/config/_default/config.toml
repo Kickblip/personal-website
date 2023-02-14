@@ -80,9 +80,9 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["multiplayer browser based game", "https://github.com/Kickblip/launch.io"],
+    ["self driving food delivery rover", "https://github.com/Kickblip/delivery-robot"],
     ["spotify seamless transitions companion app", "https://github.com/Kickblip/knit-list/"],
     ["automated tiktok video generator", "https://github.com/IP-2023"],
-    ["self driving food delivery rover", "https://github.com/Kickblip/delivery-robot"],
     ["this website", "https://github.com/Kickblip/personal-website"]
   ]
 
