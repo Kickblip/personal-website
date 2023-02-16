@@ -81,8 +81,8 @@ ignoreErrors = ["error-remote-getjson"]
   files = [ 
     ["multiplayer browser based game", "https://github.com/Kickblip/launch.io"],
     ["self driving food delivery rover", "https://github.com/Kickblip/delivery-robot"],
-    ["spotify seamless transitions companion app", "https://github.com/Kickblip/knit-list/"],
-    ["automated tiktok video generator", "https://github.com/IP-2023/frontend"],
+    ["spotify beat-matched transitions app", "https://github.com/Kickblip/knit-list/"],
+    ["automated tiktok video creation", "https://github.com/IP-2023/reddit-story-tiktok-bot"],
     ["this website", "https://github.com/Kickblip/personal-website"]
   ]
 
