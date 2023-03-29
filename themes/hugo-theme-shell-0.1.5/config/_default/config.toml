@@ -77,8 +77,7 @@ ignoreErrors = ["error-remote-getjson"]
   use = true
   folderName = "my_portfolio"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
-  files = [ 
-    ["multiplayer browser based game", "https://github.com/Kickblip/launch.io"],
+  files = [
     ["self driving food delivery rover", "https://github.com/Kickblip/delivery-robot"],
     ["automated tiktok video creation", "https://github.com/IP-2023/reddit-story-tiktok-bot"],
     ["spotify beat-matching transition app", "https://github.com/Kickblip/knit-list/"],
