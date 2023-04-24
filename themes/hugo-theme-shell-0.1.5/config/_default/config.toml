@@ -54,7 +54,7 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi, I'm Wyatt Hansen
+  Hi, I'm Wyatt
   I like machine learning and algorithms
   I'm currently a senior in high school
   I started teaching myself coding in October 2022
