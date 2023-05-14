@@ -83,7 +83,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["spotify beat-matching transition app", "https://github.com/Kickblip/knit-list/"],
     ["self driving food delivery rover", "https://github.com/Kickblip/delivery-robot"],
     ["automated tiktok video creation", "https://github.com/IP-2023/reddit-story-tiktok-bot"],
-    ["3D rendering", "https://dulcet-froyo-c497b6.netlify.app/"],
+    ["3D graphics", "https://dulcet-froyo-c497b6.netlify.app/"],
     ["this website", "https://github.com/Kickblip/personal-website"],
   ]
 
