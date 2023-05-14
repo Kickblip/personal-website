@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wyatt Portfolio</title>
+    <link>https://spontaneous-basbousa-cabb4e.netlify.app/</link>
+    <description>Recent content on Wyatt Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://spontaneous-basbousa-cabb4e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I haven&#39;t made a polished git repo for this project yet :(</title>
+      <link>https://spontaneous-basbousa-cabb4e.netlify.app/posts/this-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spontaneous-basbousa-cabb4e.netlify.app/posts/this-website/</guid>
+      <description>But here&amp;rsquo;s the main resources I&amp;rsquo;ve been using to learn about ML and Linear Algebra: https://coursera.org/share/366601a01058f402af7caddffe7d42dd https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab https://coursera.org/share/15a6027f8a9d5b2014b977e555a1788a (I&amp;rsquo;ll update this page soon with more info about my image recognition model)</description>
+    </item>
+    
+  </channel>
+</rss>
